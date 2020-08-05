@@ -6,10 +6,10 @@
     position: 'fullstack',
     org: 'CERN',
     team: 'reana.io',
-    country: 'CH'
+    country: '🇨🇭'
   }
-  skills={['React', 'Python', 'Flask', 'k8s']}
-  passions={[☕, ⛷, ⛰, ⚽️, 👨🏻‍💻]}
+  skills={['⚛️ React', '🐍 Python', '🧪 Flask', '⎈ k8s']}
+  passions={['☕️', '⛷', '⛰', '⚽️', '👨🏻‍💻']}
   twitter='@mvidalgarcia'
 />
 ```
