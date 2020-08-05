@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+```jsx
+<Marco
+  current={
+    position: 'fullstack',
+    org: 'CERN',
+    team: 'reana.io',
+  }
+  skills={['React', 'Python', 'Flask', 'k8s']}
+  passions={[☕, ⛷, ⛰, ⚽️, 👨🏻‍💻]}
+  twitter='@mvidalgarcia'
+/>
+```
+
 <!--
 **mvidalgarcia/mvidalgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
