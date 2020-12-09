@@ -6,7 +6,7 @@
     position: 'fullstack',
     org: 'CERN',
     team: 'reana.io',
-    country: '🇨🇭'
+    location: '🇨🇭'
   }
   skills={['⚛️ React', '🐍 Python', '🧪 Flask', '⎈ k8s']}
   passions={['☕️', '⛷', '⛰', '⚽️', '👨🏻‍💻']}
