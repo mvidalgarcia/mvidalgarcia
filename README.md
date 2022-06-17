@@ -3,13 +3,13 @@
 ```jsx
 <Marco
   current={{
-    position: 'fullstack',
-    org: 'CERN',
-    team: 'reana.io',
-    location: '🇨🇭'
+    position: 'frontend',
+    org: 'kiwi.com',
+    team: 'platform',
+    location: '🇪🇸'
   }}
   skills={['⚛️ React', '🐍 Python', '🧪 Flask', '⎈ k8s']}
-  passions={['☕️', '⛷', '⛰', '🚴‍♂️', '👨🏻‍💻']}
+  passions={['☕️', '🚴‍♂️', '⛷', '⛰', '👨🏻‍💻']}
   twitter='@mvidalgarcia'
 />
 ```
